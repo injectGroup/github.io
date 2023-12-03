@@ -1,0 +1,52 @@
+/*
+ *AUTHOR: Abdulkadir Mohammed @ Inject
+ *DATE: Wed 29 November 2023
+  *
+ *This is a custom css for gould wallet. 
+ */
+/*****************************
+ *********** HEAD ***********
+ *****************************/
+/*Bootstrap icons*/
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.min.css");
+
+.terms-Jumbotron {
+    background-color: #FAE9CE;
+    height: 300px;
+    padding-top: 60px;
+}
+
+.version {
+    background-color: #F7C132;
+    width: 100px;
+    margin-right: -5px;
+}
+
+.version-number {
+    background-color: #F9D77E;
+}
+
+.past-version-header {
+    background-color: #F7C132 !important;
+}
+
+a {
+    color: #7B5800 !important;
+}
+
+/*****************************
+  *********** BODY ***********
+ *****************************/
+
+html,
+body {
+    overflow-x: hidden;
+}
+
+.h6 {
+    font-weight: bold !important;
+}
+
+/*****************************
+ *********** FOOTER ***********
+*****************************/

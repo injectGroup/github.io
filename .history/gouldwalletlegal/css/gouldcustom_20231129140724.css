@@ -1,0 +1,45 @@
+/*
+ *AUTHOR: Abdulkadir Mohammed @ Inject
+ *DATE: Wed 29 November 2023
+  *
+ *This is a custom css for gould wallet. 
+ */
+/*****************************
+ *********** HEAD ***********
+ *****************************/
+.terms-content {
+    background-color: #FAE9CE;
+    padding: 16px 0px 16px 0px;
+    height: 500px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    box-sizing: border-box;
+}
+
+.version {
+    width: 100px;
+    background-color: #F7C132;
+    padding: 15px;
+    width: 100px !important;
+    height: 30px !important;
+}
+
+.version-number {
+    background-color: #F9D77E;
+    padding: 15px;
+    width: 50px !important;
+    height: 40px !important;
+}
+
+
+/*****************************
+  *********** BODY ***********
+ *****************************/
+
+/*****************************
+ *********** FOOTER ***********
+*****************************/
