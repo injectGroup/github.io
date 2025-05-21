@@ -24,7 +24,6 @@ We use your data for:
 
 ## Data Storage
 
-- Favorite wallpapers are stored in Firebase
 - Wallpapers are saved locally on your device
 - Location data is used only once to determine your currency and is not stored
 - We do not sell or share your personal data
@@ -39,7 +38,6 @@ The app requires the following permissions:
 ## Third-Party Services
 
 We use the following third-party services:
-- Firebase (for storing favorites)
 - Bing API (for fetching wallpapers)
 - Geolocator (for determining your location)
 - BigDataCloud API (for reverse geocoding)
